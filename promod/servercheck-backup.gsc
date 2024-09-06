@@ -22,7 +22,7 @@ main()
 		forceDvar( "authServerName", "cod4master.activision.com" );
 		forceDvar( "sv_disableClientConsole", "0" );
 		forceDvar( "sv_fps", "20" );
-		forceDvar( "sv_pure", "1" );
+		forceDvar( "sv_pure", "0" );
 		forceDvar( "sv_maxrate", "100000" );
 		forceDvar( "g_gravity", "800" );
 		forceDvar( "g_speed", "190" );
